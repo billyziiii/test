@@ -205,7 +205,7 @@ pnpm lint         # 代码检查
 
 MIT License
 
-## 👨‍💻 作者
+## 👨‍💻 billyz
 
 开发者: [Your Name]
 
