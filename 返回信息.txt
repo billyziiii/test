@@ -1,0 +1,50 @@
+Setting up Git repository...
+Adding files to staging...
+warning: in the working copy of 'FULLSTACK_MVP_PLAN.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/eslint.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/postcss.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/src/api.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/src/main.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/src/vite-env.d.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/tsconfig.app.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/tsconfig.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/tsconfig.node.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'apps/client/vite.config.ts', LF will be replaced by CRLF the next time Git touches it
+error: 'apps/server/' does not have a commit checked out
+fatal: adding files failed
+Creating initial commit...
+On branch main
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        FULLSTACK_MVP_PLAN.md
+        GIT_COMMIT_GUIDE.md
+        LICENSE
+        README.md
+        apps/
+        package.json
+        pnpm-lock.yaml
+        pnpm-workspace.yaml
+        tmp_rovodev_check_sensitive.bat
+        tmp_rovodev_git_setup.bat
+
+nothing added to commit but untracked files present (use "git add" to track)
+Checking remote...
+gitlab  https://gitlab.com/billyziiii/fullstack-app1.git (fetch)
+gitlab  https://gitlab.com/billyziiii/fullstack-app1.git (push)
+Pushing to GitLab...
+error: src refspec main does not match any
+error: failed to push some refs to 'origin'
+
+Git setup complete!
+If you see any errors above, please check:
+1. Your GitLab credentials
+2. Repository permissions
+3. Network connection
