@@ -205,10 +205,9 @@ pnpm lint         # 代码检查
 
 MIT License
 
-## 👨‍💻 billyz
+## 👨‍💻 作者
 
-开发者: [Your Name]
+开发者: [billyz]
 
----
 
-🎰 **享受你的赌场体验！** ✨
+
